@@ -1,4 +1,4 @@
-[h1]American Janitorial Contractors[/h1]
+American Janitorial Contractors
 ================
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
