@@ -1,5 +1,4 @@
 module Omniauth
-
   module Mock
     def auth_mock
       OmniAuth.config.mock_auth[:twitter] = {
@@ -24,5 +23,4 @@ module Omniauth
       click_link "Sign in"
     end
   end
-
 end
