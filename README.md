@@ -1,4 +1,4 @@
-American Janitorial Contractors
+America's Janitorial Contractors
 ================
 | Coveralls | Travis CI |
 |-----|-----|
