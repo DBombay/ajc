@@ -1,5 +1,6 @@
 American Janitorial Contractors
 ================
+[![Coverage Status](https://coveralls.io/repos/github/DBombay/ajc/badge.svg?branch=STAGING)](https://coveralls.io/github/DBombay/ajc?branch=STAGING)
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
