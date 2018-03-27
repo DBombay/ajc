@@ -1,6 +1,6 @@
 American Janitorial Contractors
 ================
-| Testing and Badges |
+| Testing and Badges | |
 | ----- |
 | [![Coverage Status](https://coveralls.io/repos/github/DBombay/ajc/badge.svg?branch=STAGING)](https://coveralls.io/github/DBombay/ajc?branch=STAGING) | [![Build Status](https://travis-ci.org/DBombay/ajc.svg?branch=STAGING)](https://travis-ci.org/DBombay/ajc) |
 
