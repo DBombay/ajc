@@ -9,5 +9,5 @@ Ruby on Rails
 
 This application requires:
 
-- Ruby 2.4.w
+- Ruby 2.4.2
 - Rails 5.1.5
