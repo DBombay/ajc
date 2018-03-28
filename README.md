@@ -5,7 +5,6 @@ America's Janitorial Contractors
 |-----|-----|
 | [![Coverage Status](https://coveralls.io/repos/github/DBombay/ajc/badge.svg?branch=STAGING)](https://coveralls.io/github/DBombay/ajc?branch=STAGING) | [![Build Status](https://travis-ci.org/DBombay/ajc.svg?branch=STAGING)](https://travis-ci.org/DBombay/ajc) |
 
-
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 Built Using Ruby on Rails
