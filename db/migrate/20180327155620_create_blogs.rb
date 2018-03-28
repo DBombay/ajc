@@ -1,6 +1,6 @@
-class CreateBlogsTable < ActiveRecord::Migration[5.1]
+class CreateBlogs < ActiveRecord::Migration[5.1]
   def change
-    create_table :blogs_tables do |t|
+    create_table :blogs do |t|
       t.string :title, null: false
       t.boolean :completed, default: false
       t.text :client_review

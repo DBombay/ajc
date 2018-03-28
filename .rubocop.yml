@@ -13,3 +13,6 @@ AllCops:
 
 Style/FrozenStringLiteralComment:
   EnforcedStyle: never
+
+Style/Documentation:
+  EnforcedStyle: never
