@@ -1,7 +1,6 @@
 describe Blog do
   let(:blog) { create(:blog) }
 
-  it 'should be valid' do
-    expect(blog).to be_valid
-  end
+  it {should validate_presence_of(:title)}
+  it {should have_many(:entries)}
 end

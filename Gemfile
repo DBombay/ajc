@@ -53,4 +53,5 @@ end
 group :test do
   gem 'database_cleaner'
   gem 'launchy'
+  gem 'shoulda-matchers'
 end
