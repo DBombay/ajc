@@ -6,6 +6,5 @@ FactoryBot.define do
     trait :completed do
       completed true
     end
-    
   end
 end
