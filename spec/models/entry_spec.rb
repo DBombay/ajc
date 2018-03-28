@@ -1,5 +1,5 @@
 describe Entry do
-  let!(:blog) { create(:blog) }
+  let(:blog) { create(:blog) }
   let(:entry) { create(:entry) }
 
   it 'should be valid when it has a body' do
