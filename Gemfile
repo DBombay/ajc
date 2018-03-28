@@ -42,6 +42,7 @@ group :development do
   gem 'spring-commands-rspec'
 end
 group :development, :test do
+  gem 'coveralls', require: false
   gem 'factory_bot_rails'
   gem 'faker'
   gem 'pry-rails'
@@ -52,4 +53,5 @@ end
 group :test do
   gem 'database_cleaner'
   gem 'launchy'
+  gem 'shoulda-matchers'
 end

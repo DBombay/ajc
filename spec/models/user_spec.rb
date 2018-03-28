@@ -1,13 +1,5 @@
-describe User do
+describe User, type: :model do
+  let(:user) { create(:user) }
 
-  before(:each) { @user = FactoryBot.create(:user) }
-
-  subject { @user }
-
-  it { should respond_to(:name) }
-
-  it "#name returns a string" do
-    expect(@user.name).to match 'Test User'
-  end
-
+  it { should validate_presence_of(:name) }
 end
