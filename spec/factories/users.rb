@@ -1,6 +1,6 @@
 FactoryBot.define do
   factory :user do
-    name "Test User"
+    name 'Test User'
     provider 'facebook'
     uid '1234'
     admin false
@@ -8,6 +8,5 @@ FactoryBot.define do
     trait :admin do
       admin true
     end
-
   end
 end
